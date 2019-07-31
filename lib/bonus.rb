@@ -21,7 +21,7 @@ def bonus
   }
 hash = {first: "first value!", second: "second value!"}
  
-hash[:first]
+hash[:first] = 
   #code your solution here:
 
   
